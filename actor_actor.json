@@ -1,0 +1,17 @@
+{
+    "actorSpecification": 1,
+    "name": "The Green Energy Project  Tracker",
+    "title": "The Green Energy Project  Tracker",
+    "description": "The Green Energy Project  Tracker",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ai-generated-actor",
+        "generatedBy": "Gpt-4o"
+    },
+    "input": "./input_schema.json",
+    "output": "./output_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    },
+    "dockerfile": "../Dockerfile"
+}
